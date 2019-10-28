@@ -2,7 +2,7 @@
 Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum en un proyecto software.
 
 # Integrantes
-Pablo Santidrian Tudanca
-Pablo Ahita del Barrio
-Alberto Garcia Gutierrez
-Ana Salces Mansilla
+- [Pablo Santidrian Tudanca] (https://github.com/psnti)
+- Pablo Ahita del Barrio
+- Alberto Garcia Gutierrez
+- Ana Salces Mansilla
